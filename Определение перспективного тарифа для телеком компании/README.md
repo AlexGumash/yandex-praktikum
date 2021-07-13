@@ -24,4 +24,6 @@
 Базовые инструменты: python, pandas  
 Визуализация: seaborn, matplotlib  
 "Математика": numpy, math  
-Проверка гипотез: scipy.stats
+Проверка гипотез: scipy.stats  
+
+Проект выполнение в Jupyter Notebook
