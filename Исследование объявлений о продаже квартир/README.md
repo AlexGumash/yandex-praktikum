@@ -16,4 +16,6 @@
 
 ## Использованные инструменты
 Базовые инструменты: python, pandas  
-Визуализация: matplotlib, seaborn
+Визуализация: matplotlib, seaborn  
+
+Проект выполнение в Jupyter Notebook
