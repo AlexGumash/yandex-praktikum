@@ -26,4 +26,4 @@
 "Математика": numpy, math  
 Проверка гипотез: scipy.stats  
 
-Проект выполнение в Jupyter Notebook
+Проект выполнен в Jupyter Notebook
