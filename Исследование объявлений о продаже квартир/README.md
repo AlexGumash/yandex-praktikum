@@ -18,4 +18,4 @@
 Базовые инструменты: python, pandas  
 Визуализация: matplotlib, seaborn  
 
-Проект выполнение в Jupyter Notebook
+Проект выполнен в Jupyter Notebook
