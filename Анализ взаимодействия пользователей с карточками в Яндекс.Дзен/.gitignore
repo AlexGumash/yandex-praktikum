@@ -1,0 +1,6 @@
+CA.pem
+*.csv
+.idea
+.ipynb_checkpoints
+*.zip
+.pptx
