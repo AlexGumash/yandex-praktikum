@@ -7,7 +7,7 @@
 
 ## Дашборд
 Превью (активная ссылка на Tableau Public):  
-[![Yandex.Dzen carts dashboard](/tableau.png "Yandex.Dzen carts dashboard")](https://public.tableau.com/app/profile/alex3587/viz/YandexDzenCarts/Sheet1?publish=yes)  
+[![Yandex.Dzen carts dashboard](tableau.png "Yandex.Dzen carts dashboard")](https://public.tableau.com/app/profile/alex3587/viz/YandexDzenCarts/Sheet1?publish=yes)  
 
 ## Описание данных
 Данные представлены таблицей в БД, содержащей информацию о взаимодействии пользователей с карточками в Яндекс.Дзен  
