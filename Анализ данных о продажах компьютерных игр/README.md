@@ -36,5 +36,6 @@
 Визуализация: plotly, seaborn, matplotlib  
 "Математика": numpy, math  
 Проверка гипотез: scipy.stats  
+Исследовательский анализ данных, описательная статистика
 
 Проект выполнен в Jupyter Notebook
