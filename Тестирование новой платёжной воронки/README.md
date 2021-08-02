@@ -23,6 +23,5 @@
 Визуализация: plotly, seaborn, matplotlib  
 Математика: math, numpy  
 Проверка гипотез: scipy  
-Подключение к БД: sqlalchemy
 
 Проект выполнен в Jupyter Notebook
